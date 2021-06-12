@@ -1,0 +1,5 @@
+InternalLib/*
+
+*.so
+main
+*.pch
